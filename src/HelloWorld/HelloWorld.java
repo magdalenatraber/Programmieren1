@@ -15,8 +15,6 @@ public class HelloWorld {
         // abkürzung "sout"
         // TODO: Some more code
         System.out.println("Hello World");
-        System.out.print("Hello World");
-        System.out.print("ln");
-        System.out.println("date 4321");
+
     }
 }
