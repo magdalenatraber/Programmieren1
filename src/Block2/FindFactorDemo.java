@@ -1,3 +1,5 @@
+package Block2;
+
 public class FindFactorDemo {
     public static void main(String[] args) {
         int number;

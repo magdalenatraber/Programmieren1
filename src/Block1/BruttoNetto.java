@@ -1,3 +1,5 @@
+package Block1;
+
 public class BruttoNetto {
     public static void main(String[] args) {
         float netPrize = 249;

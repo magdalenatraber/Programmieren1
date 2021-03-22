@@ -1,3 +1,5 @@
+package Block2;
+
 public class Zinsesrechnung {
     public static void main(String[] args) {
     double result = calcInterests(1000, 1.5, 10);
